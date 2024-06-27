@@ -1,0 +1,9 @@
+.container{
+    padding: 10px 100px;
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    
+}
